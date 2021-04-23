@@ -48,5 +48,5 @@ class AuthController extends Controller
             'token_type' => 'Bearer',
             'user' => $user,
         ]);
-    }
+    }    
 }
